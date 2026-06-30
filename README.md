@@ -250,6 +250,16 @@ Sensitive conversations, compensation information, and confidential personnel da
 
 The following AI tools were used during development.
 
+| Task                 | AI Tool        | How You Used It                                     |
+| -------------------- | -------------- | --------------------------------------------------- |
+| Product synthesis    | ChatGPT        | Summarized interview insights into MVP requirements |
+| UI generation        | Lovable        | Generated React pages from natural-language prompts |
+| Code refinement      | GitHub Copilot | Improved components and fixed issues                |
+| Mock data generation | ChatGPT        | Created realistic project, meeting, and task data   |
+| README               | ChatGPT        | Drafted documentation and roadmap                   |
+| Icons/graphics       | Lucide/AI      | Generated UI assets and illustrations               |
+
+
 ## ChatGPT
 
 Used for:
