@@ -191,21 +191,13 @@ The prototype follows a modular AI architecture.
 
 ```
 User
-
 ↓
-
 React Frontend
-
 ↓
-
 AI Orchestration Layer
-
 ↓
-
 OpenAI GPT Model
-
 ↓
-
 Enterprise Data Sources
 
 • Outlook
@@ -215,6 +207,8 @@ Enterprise Data Sources
 • Power BI
 • PowerPoint
 ```
+Deatiled Technical Architecture 
+![Uploading image.png…]()
 
 For this prototype, enterprise integrations are simulated using mock data.
 
